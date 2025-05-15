@@ -1,70 +1,75 @@
-# 📝 To-Do List Web App 🚀
+<div align="center">
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/Mehrab30-Mehrab/todo-list?color=blueviolet) ![GitHub top language](https://img.shields.io/github/languages/top/Mehrab30-Mehrab/todo-list?logo=javascript&logoColor=yellow)  
-![GitHub stars](https://img.shields.io/github/stars/Mehrab30-Mehrab/todo-list?style=social) ![GitHub forks](https://img.shields.io/github/forks/Mehrab30-Mehrab/todo-list?style=social)
+# 📝✨ Animated To-Do List Web App ✨📝
 
-🎯 A sleek and simple **To-Do List Web App** built using **HTML, CSS, and JavaScript**.  
-✨ Keep track of your daily tasks, mark them as complete, and remove them when you're done!
 
----
+<b>A sleek, simple, and stylish **To-Do List** app created using **HTML, CSS, and JavaScript** — with dark mode, local storage, animations, and smooth UX.</b>
+Made with ❤️ by [Mehrab30-Mehrab](https://github.com/Mehrab30-Mehrab)
 
-## ✨ Features
-
-✅ Add new tasks  
-✅ Mark tasks as complete  
-✅ Delete tasks  
-✅ Fully responsive layout  
-✅ LocalStorage support (your tasks are saved!)
+</div>
 
 ---
 
-## 🌈 Demo
+## 🚀 Features
 
-📸 Screenshot:
-
-![todo-demo](https://i.imgur.com/YOUR_IMAGE_LINK.png)
+✨ **Add / Delete Tasks**  
+📝 **Mark tasks as complete**  
+🌓 **Dark Mode Toggle**  
+💾 **Persistent storage (localStorage)**  
+⬆️ **Scroll to top button**  
+⚡ **Animated footer with fade-in effect**  
 
 ---
 
-## 🔧 Installation
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3 (with gradients, animations)
+- JavaScript (vanilla)
+- Love 💖 and Coffee ☕  
+- No libraries or frameworks!
+
+---
+
+## 📂 Folder Structure
 
 ```bash
-# Clone the repository
-git clone https://github.com/Mehrab30-Mehrab/todo-list.git
+📁 to-do-list-app/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 ```
-# Open index.html in your browser
+---
 
-## 🧠 Usage
- - Type your task in the input field
+## 📦 How to Use
 
- - Click "Add" or press Enter
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mehrab30-Mehrab/to-do-list-app.git
+ ---
+2.Navigate to the folder:
 
- - Click ✅ to mark as done
+```bash
+cd to-do-list-app
+```
+---
+3.Open index.html in your browser:
+```bash
+start index.html  # Windows
+open index.html   # macOS
+```
+### 🧠 Fun Facts
+- Tasks are saved in your browser — no database needed!
 
- - Click ❌ to delete the task
+- The footer is animated using CSS @keyframes.
 
-## 🚀 Tech Stack
-- 🧾 HTML5
+- The UI is fully responsive and works on mobile! 📱
 
-- 🎨 CSS3
 
-- 🧠 JavaScript (Vanilla)
-
-## 👨‍💻 Author
+<div align="center">
+🌟 Thank you for visiting! 🌟
 Made with ❤️ by Mehrab30-Mehrab
 
-📜 License
-MIT License 📄
-
-⭐️ Don't forget to star this repo if you like it!
-
-<footer class="footer">
-  <p>✨ Built with ❤️ by <a href="https://github.com/Mehrab30-Mehrab" target="_blank">Mehrab30-Mehrab</a> ✨</p>
-</footer>
-
-
-
-
-
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F58D&center=true&vCenter=true&width=435&lines=Happy+Hacking!;Star+⭐+this+repo+if+you+like+it!;Follow+for+more+awesome+projects+🚀" alt="Typing SVG" /> </div>
